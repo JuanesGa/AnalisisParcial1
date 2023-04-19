@@ -1,0 +1,9 @@
+Semestre1
+[2536101,Descubriendo la Fisica,3]
+[2555131,Calculo Diferencial,3]
+[2555101,Algebra y Trigonometria,3]
+[2555121,Geometria Vectorial y Analitica,3]
+[2598511,Informatica,4]
+[2598511,Informatica,4]
+[2538101,Ingles1,1]
+[2537101,Vivamos la Universidad,1]

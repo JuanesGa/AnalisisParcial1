@@ -1,4 +1,3 @@
-Semestre1
 [2536101,Descubriendo la Fisica,3]
 [2555131,Calculo Diferencial,3]
 [2555101,Algebra y Trigonometria,3]
